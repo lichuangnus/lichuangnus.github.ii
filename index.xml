@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Victor|LiChuang&#39;s Personal Webpage</title>
+    <title>Victor|Li Chuang&#39;s Personal Webpage</title>
     <link>https://lichuangnus.github.io/</link>
-    <description>Recent content on Victor|LiChuang&#39;s Personal Webpage</description>
+    <description>Recent content on Victor|Li Chuang&#39;s Personal Webpage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 12 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://lichuangnus.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
+      <title>Biography</title>
       <link>https://lichuangnus.github.io/about/</link>
       <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
       
@@ -18,12 +18,12 @@ My research interests are in Recommendation System, Conversational Recommendatio
     </item>
     
     <item>
-      <title>First post</title>
+      <title>First Post for ALL</title>
       <link>https://lichuangnus.github.io/posts/post1/</link>
       <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://lichuangnus.github.io/posts/post1/</guid>
-      <description></description>
+      <description>Hi there, welcome to my personal website. This is my first time to create a website and it doesn&amp;rsquo;t seem so hard with the help of Hugo Theme and Github.io. I am using this webiste mainly for tracking of my own research progress and moreover, to help me connect it to others. Currently, I have made it bi-lingual and for a student doing NLP, it&amp;rsquo;s possible to make it multi-lingual but I will leave it to Google Translate.</description>
     </item>
     
     <item>
@@ -32,7 +32,14 @@ My research interests are in Recommendation System, Conversational Recommendatio
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lichuangnus.github.io/contact/</guid>
-      <description>For contacting, pls feel free to email me at lichuangnus[@]gmail.com</description>
+      <description>For contacting, pls feel free to email me：
+Email Address in Google: lichuangnus[@]gmail.com
+Email Address in China: lc1614004「@」163.com
+Workplace:
+National University of Singapore, AS6, SOC, NUS
+Social Media：
+LinkedIn： https://www.linkedin.com/in/victorlinus/
+Twitter ： https://twitter.com/VictorLi_SG/</description>
     </item>
     
     <item>
